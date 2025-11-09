@@ -26,7 +26,18 @@ A movie recommendation app that integrates GPT-3.5 Turbo for intelligent search,
 - Responsive
 - Authentication
 - Versioning (github)
-- Performance 
+- Performance
+
+## 🏷️ Tags
+- ReactJS
+- TailwindCSS
+- Redux Toolkit
+- Firebase Authentication
+- TMDB API
+- Responsive Design
+- React Router
+- OpenAI Integration
+- JavaScript
 
 ## 👨🏻‍💻Tech choices
 - ReactJS (scaffolded with CRA)
@@ -43,3 +54,4 @@ A movie recommendation app that integrates GPT-3.5 Turbo for intelligent search,
     - REACT_APP_OPENAI_KEY
 
     
+
