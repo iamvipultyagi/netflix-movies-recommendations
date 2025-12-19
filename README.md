@@ -91,5 +91,5 @@ To view the application, click here → 🔥[Netflix With GPT](https://netflixwi
 
 ## 📽️ Project Setup
 - Before starting the project please add .env file and add the following ENVs
-    - REACT_APP_OPENAI_KEY
+    - REACT_APP_GEMINI_API_KEY
     
