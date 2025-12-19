@@ -51,7 +51,8 @@ A movie recommendation app that integrates GPT-3.5 Turbo for intelligent search,
 
 ## 📽️ Project Setup
 - Before starting the project please add .env file and add the following ENVs
-    - REACT_APP_OPENAI_KEY
+    - REACT_APP_GEOQ_API_KEY
 
     
+
 
